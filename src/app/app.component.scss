@@ -1,0 +1,40 @@
+#inbox-list{
+    padding-top: 0;
+}
+.bar-profile {
+    height: 180px;
+    background-color: #115a5d;
+}
+
+.profile {
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 0;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.profile .name {
+    color: #FFFFFF;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.profile .email {
+    color: #FFFFFF;
+    font-size: 12px;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.profile-picture {
+    border-radius: 50%;
+}
+
+.menu .has-header
+{
+    top: 169px;
+}
